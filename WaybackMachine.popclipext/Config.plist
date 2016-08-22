@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+<key>Actions</key>
+<array>
+    <dict>
+        <key>Script Interpreter</key>
+        <string>/usr/bin/ruby</string>
+        <key>Shell Script File</key>
+        <string>script.rb</string>
+        <key>Title</key>
+        <string>Wayback Machine</string>
+        <key>Image File</key>
+        <string>wayback.png</string>
+        <key>Requirements</key>
+        <array>
+            <string>httpurl</string>
+        </array>
+    </dict>
+</array>
+<key>Extension Description</key>
+<string>Look up the selected URL in the archive.org Wayback Machine (http://archive.org/web/)</string>
+<key>Extension Identifier</key>
+<string>com.ralphschafermeier.popclip.extension.WaybackMachine</string>
+<key>Extension Name</key>
+<string>Wayback Machine</string>
+<key>Version</key>
+<integer>1</integer>
+</dict>
+</plist>
