@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+<key>Actions</key>
+<array>
+    <dict>
+        <key>URL</key>
+        <string>https://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q={popclip text}</string>
+        <key>Image File</key>
+        <string>icon.png</string>
+        <key>Title</key>
+        <string>Idealo Preisvergleich</string>
+    </dict>
+</array>
+<key>Extension Description</key>
+<string>Do a price comparison on the product described by the selected text on idealo.de (http://idealo.de)</string>
+<key>Extension Identifier</key>
+<string>com.ralphschafermeier.popclip.extension.Idealo</string>
+<key>Extension Name</key>
+<string>Idealo Preisvergleich</string>
+<key>Version</key>
+<integer>1</integer>
+</dict>
+</plist>
